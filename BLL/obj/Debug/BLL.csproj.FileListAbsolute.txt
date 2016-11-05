@@ -1,0 +1,14 @@
+E:\4th smster\Project\handbag\BLL\bin\Debug\BLL.dll
+E:\4th smster\Project\handbag\BLL\bin\Debug\BLL.pdb
+E:\4th smster\Project\handbag\BLL\bin\Debug\DLL.dll
+E:\4th smster\Project\handbag\BLL\bin\Debug\DLL.pdb
+E:\4th smster\Project\handbag\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\4th smster\Project\handbag\BLL\obj\Debug\BLL.dll
+E:\4th smster\Project\handbag\BLL\obj\Debug\BLL.pdb
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\BLL\bin\Debug\BLL.dll
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\BLL\bin\Debug\BLL.pdb
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\BLL\bin\Debug\DLL.dll
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\BLL\bin\Debug\DLL.pdb
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\BLL\obj\Debug\BLL.dll
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\BLL\obj\Debug\BLL.pdb

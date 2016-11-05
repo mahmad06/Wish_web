@@ -1,0 +1,10 @@
+E:\4th smster\Project\handbag\DLL\bin\Debug\DLL.dll.config
+E:\4th smster\Project\handbag\DLL\bin\Debug\DLL.dll
+E:\4th smster\Project\handbag\DLL\bin\Debug\DLL.pdb
+E:\4th smster\Project\handbag\DLL\obj\Debug\DLL.dll
+E:\4th smster\Project\handbag\DLL\obj\Debug\DLL.pdb
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\DLL\bin\Debug\DLL.dll.config
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\DLL\bin\Debug\DLL.dll
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\DLL\bin\Debug\DLL.pdb
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\DLL\obj\Debug\DLL.dll
+C:\Users\SHAHNAZ\Desktop\New folder\wishes\DLL\obj\Debug\DLL.pdb
